@@ -1,0 +1,9 @@
+/Builds
+/Library
+/Temp
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+/.vs
